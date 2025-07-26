@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm Taek Ryeol Yoo
+## 👋 Hi, I'm Taek Ryeol Yoo
 
-> 3년 차 백엔드 개발자입니다.  
+> A backend developer with 3 years of experience in building production-ready APIs and deploying applications with Kubernetes.
 
 
 <br/>
