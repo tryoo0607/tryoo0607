@@ -52,8 +52,8 @@
 
 ### 🏆 Certifications
 
-- ☸️ CKAD - Certified Kubernetes Application Developer (2024)
-- ☸️ CKA - Certified Kubernetes Administrator (2023)
+- ☸️ CKAD - Certified Kubernetes Application Developer (CNCF, 2024)
+- ☸️ CKA - Certified Kubernetes Administrator (CNCF, 2023)
 
 
 <br/>
