@@ -1,8 +1,6 @@
 ## 👋 Hi there, I'm Taek Ryeol Yoo
 
 > 3년 차 백엔드 개발자입니다.  
-> Kubernetes 기반 환경과 CI/CD, Spring Boot 기반 API 개발에 익숙하며  
-> 프론트부터 배포까지 전체 사이클을 직접 경험했습니다.
 
 
 <br/>
